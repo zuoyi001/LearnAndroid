@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="TsButton">测试按钮</string>
+    <string name="TsTextView">测试文本显示</string>
+
+    <string name="right_eye">右眼裸眼</string>
+    <string name="left_eye">左眼裸眼</string>
+    <string name="right_glass_eye">右眼戴镜</string>
+    <string name="left_glass_eye">左眼戴镜</string>
+
+    <string name="tag_squint">可疑斜视</string>
+    <string name="tag_attention">重点关注</string>
+
+    <string name="glassType_0">未戴镜</string>
+    <string name="glassType_1">框架眼镜</string>
+    <string name="glassType_2">隐形眼镜</string>
+    <string name="glassType_3">夜戴角膜塑形镜</string>
+
+    <string name="phonenumberstr">联系电话 : </string>
+    <string name="classtimestr">配镜时间 : </string>
+
+</resources>
